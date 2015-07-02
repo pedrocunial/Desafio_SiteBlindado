@@ -1,7 +1,9 @@
 # Desafio_SiteBlindado
 
 RESQUISITOS:
+
     Python versão 3.4.3
+
     Módulos: requests, BeautifulSoup4 e csv (os quais já vem inclusos caso o usuário tenha o pacote Anaconda3 para Python)
 
 
