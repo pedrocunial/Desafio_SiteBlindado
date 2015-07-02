@@ -1,6 +1,6 @@
 # Desafio WebCrawler SiteBlindado - Arpex
 
-RESQUISITOS:
+REQUISITOS:
 
     Python 3.4
     Módulos: requests,
