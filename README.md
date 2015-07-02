@@ -6,8 +6,6 @@ RESQUISITOS:
     Módulos: requests,
              BeautifulSoup4
              csv 
-             (os quais já vem inclusos caso o usuário tenha o pacote Anaconda3 para Python)
-
 
 O programa pode ser rodado seja pelo prompt de comando (navegando até a pasta onde está e então usando o comando "python webcrawler.py"), assim como pelo console de sua preferência.
 
