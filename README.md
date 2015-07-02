@@ -2,7 +2,7 @@
 
 RESQUISITOS:
 
-    Python versão 3.4.3
+    Python 3.4
     Módulos: requests,
              BeautifulSoup4
              csv 
